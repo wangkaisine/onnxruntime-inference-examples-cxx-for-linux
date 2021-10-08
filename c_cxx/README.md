@@ -2,7 +2,7 @@ This directory contains a few C/C++ sample applications in Linux for demoing onn
 
 1. (Windows and Linux) fns_candy_style_transfer: A C application that uses the FNS-Candy style transfer model to re-style images. It is written purely in C, no C++.
 2. (Linux) fns_candy_style_transfer_cxx: A C application that uses the FNS-Candy style transfer model to re-style images. It is written in C++.
-3. (Linux) MNIST_cxx: A windows GUI application for doing handwriting recognition. It's not as writable as the original [MNIST](https://github.com/microsoft/onnxruntime-inference-examples/tree/main/c_cxx/MNIST), but you can use the [test images](https://github.com/wangkaisine/onnxruntime-inference-examples-cxx-for-linux/tree/main/resources/MNIST/test_images) from resources, or build more of your own, in 28x28 grayscale format.
+3. (Linux) MNIST_cxx: A handwriting recognition application that runs directly from the command line, without the Windows GUI. It's not as writable as the original [MNIST](https://github.com/microsoft/onnxruntime-inference-examples/tree/main/c_cxx/MNIST), but you can use the [test images](https://github.com/wangkaisine/onnxruntime-inference-examples-cxx-for-linux/tree/main/resources/MNIST/test_images) from resources, or build more of your own, in 28x28 grayscale format.
 
 # How to build
 
